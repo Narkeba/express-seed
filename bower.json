@@ -1,0 +1,24 @@
+{
+  "name": "dordevic",
+  "version": "0.0.0",
+  "authors": [
+    "m.balkhaev"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "socket.io-client": "~1.3.5",
+    "riot": "~2.0.15",
+    "qwest": "~1.5.11",
+    "lodash": "~3.7.0",
+    "director": "~1.2.8",
+    "store-js": "~1.3.17"
+  }
+}

@@ -1,0 +1,13 @@
+# IntelliJ project files
+.idea
+
+### Node template
+# Logs
+logs
+*.log
+
+# Dependency directory
+node_modules
+
+assets/vendor
+client

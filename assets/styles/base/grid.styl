@@ -1,0 +1,18 @@
+columns = 16
+max-width = 960px
+
+.container
+	center(max-width)
+
+.row
+	cf()
+
+for col in (1..columns)
+	.col-{col}
+		column(col/columns)
+
+	.span-{col}
+		span(col/columns)
+
+	.shift-{col}
+		shift(col/columns)
