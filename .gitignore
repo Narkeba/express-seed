@@ -9,5 +9,8 @@ logs
 # Dependency directory
 node_modules
 
+# Bower directory
 assets/vendor
+
+# Client generated
 client
